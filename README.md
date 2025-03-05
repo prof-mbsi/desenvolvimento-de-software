@@ -1,5 +1,5 @@
 # desenvolvimento-software
-- Prof. Marlon
+- _Prof. Marlon André Peron Generoso_
 - Semestre: 2025-1
 
 ## Cronograma de aulas:
@@ -28,10 +28,9 @@
 23. 22/mai: Classes do pacote java.io.
 24. 27/mai: Collections em Java.
 25. 29/mai: Collections em Java.
-26. 3/jun: Revisão da disciplina.
+26. 03/jun: Revisão da disciplina.
 27. 05/jun: **_Apresentação/defesa de código da A2-3 (3,0)._**
 28. 10/jun: **_Apresentação/defesa de código da A2-3 (3,0)._**
 29. 12/jun: Avaliação A1. Prova individual sem consulta.
 30. 01/jul: Substitutiva
 
---
