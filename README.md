@@ -1,4 +1,4 @@
-# desenvolvimento-software
+# desenvolvimento-de-software
 - _Prof. Marlon André Peron Generoso_
 - Semestre: 2025-1
 
