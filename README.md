@@ -6,7 +6,7 @@
 1. 25/fev: ~~Apresentação do professor, do conteúdo e introdução à linguagem Java.~~
 2. 27/fev: ~~Conversão de comandos básicos em C para Java (tipos de dados, loops e decisões).~~
 3. 06/mar: ~~Conversão de comandos básicos em C para Java (loops, decisões e arrays).~~
-4. 11/mar: Introdução a orientação a objetos em Java (classes e objetos). Revisão de Diagrama de Classes.
+4. 11/mar: ~~Introdução a orientação a objetos em Java (classes e objetos). Revisão de Diagrama de Classes.~~
 5. 13/mar: Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).
 6. 18/mar: Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).
 7. 20/mar: Arrays de objetos.
