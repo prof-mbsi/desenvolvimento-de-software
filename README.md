@@ -7,7 +7,7 @@
 2. 27/fev: ~~Conversão de comandos básicos em C para Java (tipos de dados, loops e decisões).~~
 3. 06/mar: ~~Conversão de comandos básicos em C para Java (loops, decisões e arrays).~~
 4. 11/mar: ~~Introdução a orientação a objetos em Java (classes e objetos). Revisão de Diagrama de Classes.~~
-5. 13/mar: Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).
+5. 13/mar: ~~Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).~~
 6. 18/mar: Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).
 7. 20/mar: Arrays de objetos.
 8. 25/mar: A2-1: Lista de exercícios (resolução) - entrega até dia 25/mar pelo BB (1,0).
