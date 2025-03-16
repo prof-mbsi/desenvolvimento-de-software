@@ -1,4 +1,4 @@
-package aula0603;
+package aula03.aula0603;
 
 //Classe que cria os objetos que fazem a leitura de dados pelo console
 import java.util.Scanner;

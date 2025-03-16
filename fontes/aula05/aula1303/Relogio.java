@@ -1,4 +1,4 @@
-package aula1303;
+package aula05.aula1303;
 
 public class Relogio {
 	
