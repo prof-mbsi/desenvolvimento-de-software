@@ -10,7 +10,7 @@
 5. 13/mar: ~~Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).~~
 6. 18/mar: ~~Introdução a orientação a objetos em Java (classes, objetos e relacionamentos).~~
 7. 20/mar: ~~Arrays de objetos.~~
-8. 25/mar: A2-1: Lista de exercícios (resolução) - entrega até dia 25/mar pelo BB (1,0).
+8. 25/mar: ~~A2-1: Lista de exercícios (resolução) - entrega até dia 25/mar pelo BB (1,0).~~
 9. 27/mar: **_Entrega da A2-1. Modificadores de acesso e atributos de classe._**
 10. 01/mar: Getters, setters e construtores.
 11. 03/abr: Getters, setters e construtores.
