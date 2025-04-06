@@ -12,8 +12,8 @@
 7. 20/mar: ~~Arrays de objetos.~~
 8. 25/mar: ~~A2-1: Lista de exercícios (resolução) - entrega até dia 25/mar pelo BB (1,0).~~
 9. 27/mar: ~~**_Entrega da A2-1. Modificadores de acesso e atributos de classe._**~~
-10. 01/mar: Getters, setters e construtores.
-11. 03/abr: Getters, setters e construtores.
+10. 01/mar: ~~Getters, setters e construtores.~~
+11. 03/abr: ~~Getters, setters e construtores.~~
 12. 08/abr: Exercícios de fixação do conteúdo.
 13. 10/abr: Herança, reescrita e polimorfismo.
 14. 15/abr: Herança, reescrita e polimorfismo.
