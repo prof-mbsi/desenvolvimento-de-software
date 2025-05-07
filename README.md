@@ -19,8 +19,8 @@
 14. 15/abr: ~~Herança, reescrita e polimorfismo.~~
 15. 22/abr: ~~Herança, reescrita e polimorfismo / Exercícios de fixação do conteúdo.~~
 16. 24/abr: ~~Definição de temas e equipes do projeto semestral (A2-3), requisitos e critérios de avaliação.~~
-17. 29/abr: **_Entrega da A2-2 pelo BB: Lista de exercícios (1,0)._**
-18. 06/abr: Classes abstratas e interfaces.
+17. 29/abr: ~~**_Entrega da A2-2 pelo BB: Lista de exercícios (1,0)._**~~
+18. 06/abr: ~~Classes abstratas e interfaces.~~
 19. 08/abr: Classes abstratas e interfaces.
 20. 13/mai: Exercícios de fixação do conteúdo.
 21. 15/mai: Controle de erros.
