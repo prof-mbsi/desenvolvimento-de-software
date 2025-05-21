@@ -23,11 +23,11 @@
 18. 06/mai: ~~Classes abstratas e interfaces.~~
 19. 08/mai: ~~Classes abstratas e interfaces.~~
 20. 13/mai: ~~Tratamento de exceções (try, catch, finally, throws).~~
-21. 15/mai: Classes do pacote java.io.
-22. 20/mai: Classes do pacote java.io.
-23. 22/mai: Collections em Java.
+21. 15/mai: ~~Classes do pacote java.io.~~
+22. 20/mai: ~~Classes do pacote java.io.~~
+23. 22/mai: Lambda expressions.
 24. 27/mai: Collections em Java.
-25. 29/mai: Exercícios sobre os conteúdos de maio.
+25. 29/mai: Collections em Java.
 26. 03/jun: Revisão da disciplina.
 27. 05/jun: **_Apresentação/defesa de código da A2-3 (3,0)._**
 28. 10/jun: **_Apresentação/defesa de código da A2-3 (3,0)._**
