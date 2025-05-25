@@ -25,7 +25,7 @@
 20. 13/mai: ~~Tratamento de exceções (try, catch, finally, throws).~~
 21. 15/mai: ~~Classes do pacote java.io.~~
 22. 20/mai: ~~Classes do pacote java.io.~~
-23. 22/mai: Lambda expressions.
+23. 22/mai: ~~Lambda expressions.~~
 24. 27/mai: Collections em Java.
 25. 29/mai: Collections em Java.
 26. 03/jun: Revisão da disciplina.
