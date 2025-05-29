@@ -26,8 +26,8 @@
 21. 15/mai: ~~Classes do pacote java.io.~~
 22. 20/mai: ~~Classes do pacote java.io.~~
 23. 22/mai: ~~Lambda expressions.~~
-24. 27/mai: Collections em Java.
-25. 29/mai: Collections em Java.
+24. 27/mai: ~~Collections em Java.~~
+25. 29/mai: ~~Collections em Java.~~
 26. 03/jun: Revisão da disciplina.
 27. 05/jun: **_Apresentação/defesa de código da A2-3 (3,0)._**
 28. 10/jun: **_Apresentação/defesa de código da A2-3 (3,0)._**
