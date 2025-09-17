@@ -10,7 +10,7 @@ public class Main {
 
 		ArrayList<String> nomes = new ArrayList<>();
         nomes.add("Ana");
-        nomes.add("Carlos");
+        nomes.add("Dunga");
         nomes.add("Beatriz");
 
         System.out.println("Primeiro nome: " + nomes.get(0));
